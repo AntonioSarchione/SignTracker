@@ -12,7 +12,7 @@ Android application able to recognize, with the help of two neural networks, the
 [lk_cnn]: https://github.com/AntonioSarchione/SignTracker/tree/master/CNN "CNN"
 [lk_rp]: https://github.com/AntonioSarchione/SignTracker/tree/master/Report "Report"
 
-##Overview
+## Overview
 1. Download the apk file [here][lk_apk]
 2. Install it on android device
 3. [**Enjoy it!**]
