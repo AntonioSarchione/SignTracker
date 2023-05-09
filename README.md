@@ -17,7 +17,7 @@ Android application able to recognize, with the help of two neural networks, the
 2. Install it on android device
 3. **Enjoy it!**
 
-[lk_apk]: https:https://github.com/AntonioSarchione/SignTracker/releases/download/untagged-6f8124667c8ad7d6e3e5/SignTracker.apk	"Apk download link"
+[lk_apk]: https://github.com/AntonioSarchione/SignTracker/releases/download/0.1/SignTracker.apk "Apk download link"
 
 
 
