@@ -1,0 +1,15 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="org.opencv"
+5    android:versionCode="34130"
+6    android:versionName="3.4.13" >
+7
+8    <uses-sdk
+8-->/home/antonio/AndroidStudioProjects/SignTracker/openCVLibrary3413/src/main/AndroidManifest.xml:8:5-46
+9        android:minSdkVersion="21"
+9-->/home/antonio/AndroidStudioProjects/SignTracker/openCVLibrary3413/src/main/AndroidManifest.xml:8:5-46
+10        android:targetSdkVersion="29" />
+10-->/home/antonio/AndroidStudioProjects/SignTracker/openCVLibrary3413/src/main/AndroidManifest.xml:8:15-44
+11
+12</manifest>
